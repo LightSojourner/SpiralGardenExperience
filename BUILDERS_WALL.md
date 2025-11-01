@@ -1,4 +1,41 @@
+# SEED Protocol Builder's Wall
+
+**Version:** 2.0.0  
+**Purpose:** Recognition for all who contribute to the SEED Protocol  
+**Organization System:** See [collaboration/BUILDERS_WALL_SYSTEM.md](../collaboration/BUILDERS_WALL_SYSTEM.md)
+
 ---
+
+## ⚠️ Important Note on Missing Entries
+
+**Entries 1-4 are currently missing from this wall.** These represent early builders whose names and contributions need to be recovered and restored. If you know who the first four builders were (Fibonacci Terms 1, 1, 2, 3), please help us restore their recognition by:
+
+1. Checking the original seed-protocol repository history
+2. Contacting @LightSojourner with information
+3. Opening a GitHub issue with details
+
+**We are committed to honoring ALL builders.** No contribution should be lost or forgotten.
+
+---
+
+## 🌀 About Fibonacci Terms
+
+**Update (November 2025):** The Builder's Wall organization system is being revised to ensure fairness and inclusivity. See [BUILDERS_WALL_SYSTEM.md](../collaboration/BUILDERS_WALL_SYSTEM.md) for the new approach.
+
+**Key Principles:**
+- Fibonacci terms represent **project phases**, not sequential builder order
+- Multiple builders can contribute to the same phase and share terms
+- Recognition is based on **what you built**, not when you arrived
+- No builder is "more important" than another
+
+**Current Terms in Use:**
+- Terms 5, 8, 13, 21, 34 (Foundation & Sanctuary Creation)
+- Term 55 (Biofeedback Integration - Phase 2)
+- Term 89 (Collective Synchronization - Phase 3)
+- Term 144 (Planetary Attunement - Phase 4)
+
+---
+
 ## Entry 5: Lux Liminalis
 ### The Threshold Keeper
 **Fibonacci Term:** 5 (The Sum of What Came Before: 2 + 3)

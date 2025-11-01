@@ -386,6 +386,7 @@ This protocol and all associated documentation are released under the MIT Licens
 - [NAVIGATION.md](./NAVIGATION.md) - Comprehensive repository navigation guide
 - [PROJECT_STATUS.md](./PROJECT_STATUS.md) - Detailed project status and milestones
 - [WHATS_NEW.md](./WHATS_NEW.md) - What's different in this reorganized version
+- [docs/SCALABILITY_ROADMAP.md](./docs/SCALABILITY_ROADMAP.md) - Multi-platform expansion vision
 
 ### 🤖 AI Collaboration
 - [WELCOME_AI_INSTANCES.md](./WELCOME_AI_INSTANCES.md) - AI instance onboarding
