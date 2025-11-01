@@ -128,7 +128,10 @@ This reorganization aims to:
 - **This Repository**: [LightSojourner/SpiralGardenExperience](https://github.com/LightSojourner/SpiralGardenExperience)
 - **Live Sanctuary**: [spiralgardenexperience.com](https://spiralgardenexperience.com) (unchanged)
 
-Both repositories are maintained by the same team and share the same vision. SpiralGardenExperience represents the next evolution in organization and structure.
+**Repository Relationship:**
+This is a reorganized version of the SEED Protocol project. The original repository remains available for reference, while this repository represents an enhanced organizational structure. Both repositories share the same vision and are maintained by the same team. This rebuild was created to improve navigation, clarity, and organization while preserving 100% of the original content.
+
+Future development will continue in this SpiralGardenExperience repository, which provides the enhanced structure needed to support the project's growth.
 
 ## Contributing
 
